@@ -17,5 +17,5 @@ Additionally, it incorporates a password management system leveraging MySQL data
 
 ### <pre>Project Structure</pre>
 - `python games` - code available for all the 12 games made using python pygame, numpy, random library
-- `Game project` - code available for final compilation of top 6 games along with MySQL RDBMS Integrity with python
+- `Game project` - code available for final project consisting of top 6 games along with MySQL RDBMS Integrity with python
 - `demo` - holds the videos and images showing the workings of all the games and final project.
