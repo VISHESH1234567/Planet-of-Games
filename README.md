@@ -3,7 +3,7 @@
 ### <pre>Project Description</pre>
 Games are always frowned upon by people. This project consolidates the top 6 various mind freshening single and multiplayer games into a unified platform, enabling streamlined accessibility. This project consists of brain storming games that can be played and enjoyed by any age group. Games are not just fun, relaxing  and boredom solver, but playing brain games also helps in increasing mental strength, concentartion power and focus of a user. Here a player gets variety of choices for unique puzzle solving games all available in a single platform.
 
-### <pre>Games Overview</pre>
+### <pre>Game Collection</pre>
 
 #### ---- 2048 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---- Draughts/ Chinese Checkers
 #### ---- Number puzzle &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---- Snake Game
